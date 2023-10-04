@@ -11,11 +11,11 @@ Object oriented RPG
 - [Main]()
 - Characters/
   - [Character](Characters/Character.hpp)
-  - [Fighters/](Fighters/)
+  - [Fighters/](Characters/Fighters/)
     - [Fighter](Characters/Fighters/Fighter.hpp)
     - [Fencer](Characters/Fighters/Fencer.hpp)
     - [Sorcerer](Characters/Fighters/Sorcerer.hpp)
-  - [Monsters/](Monsters/)
+  - [Monsters/](Characters/Monsters/)
     - [Monster](Characters/Monsters/Monster.hpp)
     - [Slime](Characters/Monsters/Slime.hpp)
 - [BattleField](./BattleField.hpp)
