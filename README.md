@@ -2,8 +2,8 @@
 Object oriented RPG
 
 ### Contents
-* [technology stack](#technologystack)
-* [directories and files](#directoriesandfiles)
+* [technology stack](#technology-stack)
+* [directories and files](#directories-and-files)
 
 ### Technology stack
 
