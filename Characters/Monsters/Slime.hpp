@@ -4,6 +4,7 @@
 #include <random>
 #include "../../Includes/CharacterInclude.hpp"
 #include "Monster.hpp"
+#include "../Fighters/Fighter.hpp"
 
 class Slime : public Monster {
     public:

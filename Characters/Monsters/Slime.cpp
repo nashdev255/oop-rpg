@@ -3,6 +3,7 @@
 
 Slime :: Slime() {
     this->name = "Slime";
+    this->element = Hydro;
     this->maxhp = 200;
     this->hp = this->maxhp;
     this->atk = 70;
