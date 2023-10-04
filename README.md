@@ -8,7 +8,7 @@ Object oriented RPG
 ### Technology stack
 
 ### Directories and files
-- [Main]()
+- [Main](./Main.cpp)
 - [Characters/](Characters/)
   - [Character](Characters/Character.hpp)
   - [Fighters/](Characters/Fighters/)
