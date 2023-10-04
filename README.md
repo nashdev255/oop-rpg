@@ -9,7 +9,7 @@ Object oriented RPG
 
 ### Directories and files
 - [Main]()
-- Characters/
+- [Characters/](Characters/)
   - [Character](Characters/Character.hpp)
   - [Fighters/](Characters/Fighters/)
     - [Fighter](Characters/Fighters/Fighter.hpp)
