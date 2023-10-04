@@ -7,6 +7,10 @@ Object oriented RPG
 
 ### Technology stack
 
+| Category | Technology stack  |
+| -------- | ----------------- |
+| Compiler | gcc version 9.2.0 |
+
 ### Directories and files
 - [Main](./Main.cpp)
 - [Characters/](Characters/)
