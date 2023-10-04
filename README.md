@@ -1,2 +1,2 @@
-C++'s object-oriented(OOPL) is definitely uncomfortable.
-NOT using `using namespace std;`
+# OOP RPG
+Object oriented RPG
